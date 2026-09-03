@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Botond 👋
 
-<!--
-**FoglBotond/FoglBotond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java developer with experience in enterprise application development.
 
-Here are some ideas to get you started:
+I mainly work with backend technologies, but I'm currently expanding my knowledge in modern frontend development with React and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- Java
+- Java EE
+- SQL / Oracle
+- Git
+- REST / SOAP
+- JavaScript
+- TypeScript
+- React
+- HTML / CSS
+
+## Currently learning
+
+- React
+- TypeScript
+- Spring Boot
+- Modern full-stack development
+
+## Projects
+
+I'm currently building personal projects to demonstrate my backend and frontend development skills.
